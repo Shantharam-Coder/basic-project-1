@@ -3,9 +3,13 @@
   
 # Features
   1️⃣ Choose Stone, Paper, or Scissor.
+  
   2️⃣ The computer makes its move .
+  
   3️⃣ The result is displayed (Win, Lose, or Tie) .
+  
   4️⃣ Keep playing and check your score .
+  
   5️⃣ Hit Reset to start fresh.
 
 # Technologies Used
@@ -18,7 +22,9 @@
 
 # Future Enhancements
   🔸 Add multiplayer mode 
+  
   🔸 Improve animations 
+  
   🔸 Add sound effects
 
 # Contributions & Feedback
