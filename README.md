@@ -14,7 +14,9 @@
 
 # Technologies Used
   HTML: Structure
+  
   CSS: Styling
+  
   JavaScript: Game Logic
 
 # Installation
