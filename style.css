@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(25,25,25);
+    color: white;
+    font-size: 30px;
+}
+.title{
+    color:white;
+    font-size: 30px;
+    font-family: Arial;
+    margin-top: 3%;
+}
+.img{
+    height: 150px;
+    width: 100px;
+    margin-right: 5%;
+}
+.pl-btn{
+    background: transparent;
+    border: 2px solid white;
+    width: 130px;
+    margin-right: 3%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.score{
+    margin-right: 28%;
+}
+.reset{
+    height:40px;
+    width: 130px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    background-color: rgb(240,240,240);
+    border-radius: 10px;
+}
